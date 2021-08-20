@@ -1,0 +1,6 @@
+.input {
+	padding: 15px 15px;
+	border-bottom: 1px solid #e9ecef;
+	display: flex;
+	justify-content: space-between;
+}
